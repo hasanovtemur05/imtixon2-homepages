@@ -49,6 +49,7 @@ button {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  gap: 40px;
 }
 .header__list {
   display: flex;
